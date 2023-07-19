@@ -21,6 +21,4 @@ Repository to test available Low Code app generation tools using **GitHub Codesp
  2. A  license key is displayed
  3.  Look for Local machine --> Copy and run the script on GitHub CodeSpace.
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
-
+The software get installed in:  **~/retool/retool-onpremise**
