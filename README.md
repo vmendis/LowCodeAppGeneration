@@ -14,7 +14,7 @@ Repository to test available Low Code app generation tools using **GitHub Codesp
 | Hosting Locally                                                                           |     | Yes                                       | Yes                                                                                                            |   |   |   |
 | Use Docker-Compose                                                                        |     | Yes                                       | Yes,  I am getting an error when docker-compose up is run. See note 1 on how I install Retool GitHub CodeSpace |   |   |   |
 | Buit-in Database to store data. This is good for an app which does not use existing data. |     | Yes Budibase DB is the native datasource. | Yes Retool DB is a PostgreSQL with a spreadsheet-like interface to manage data                                 |   |   |   |
-| Connection to external Databases. This is a must for an which uses existing data          |     | Yes                                       | Yes                                                                                                            |   |   |   |
+| Connection to external Databases. This is a must for an app which uses existing data          |     | Yes                                       | Yes                                                                                                            |   |   |   |
 
 **Note 1:** 
 
