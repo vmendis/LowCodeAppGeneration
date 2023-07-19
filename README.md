@@ -21,4 +21,5 @@ Repository to test available Low Code app generation tools using **GitHub Codesp
  2. A  license key is displayed
  3.  Look for Local machine --> Copy and run the script on GitHub CodeSpace.
 
-The software get installed in:  **~/retool/retool-onpremise**
+     The software get installed in:  **~/retool/retool-onpremise**
+
