@@ -8,14 +8,14 @@ Follow the order listed when starting up the components. These two docker networ
  - [ ] retool-onpremise-master_backend-network
        retool-onpremise-master_db-connector-network
 
-$ cd retool-onpremise-master
-$ docker-compose up
-$ cd Budibase
-$ docker-compose up
-$ docker-compose ps -a      // To view the status of docker containers
+$ cd retool-onpremise-master </br>
+$ docker-compose up </br>
+$ cd Budibase </br>
+$ docker-compose up </br>
+$ docker-compose ps -a      // To view the status of docker containers </br>
 
 ## Ports
 
-3000 - retool
-5013 - phpMyAdmin
-10000 - Budibase
+3000 - retool </br>
+5013 - phpMyAdmin </br>
+10000 - Budibase </br>
