@@ -5,7 +5,7 @@ The code in here allows to me evaluate/test both tools (Budibase ad Retool) agai
 ## Instructions
 Follow the order listed when starting up the components. These two docker networks created by retool is used by Budibase as well.
 
- - [ ] retool-onpremise-master_backend-network
+ - [ ] retool-onpremise-master_backend-network </br>
        retool-onpremise-master_db-connector-network
 
 $ cd retool-onpremise-master </br>
